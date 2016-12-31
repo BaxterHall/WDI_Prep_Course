@@ -8,15 +8,15 @@ function ask(){
 
 
 
-    if (choice=1) {
-            guessAgain();
-    }
-    else if (choice=2) {
-            outlooknotsogood()
-    }
-    else (choice=3) {
-            withoutadoubt()
-    }    
+    if (choice=1) 
+           console.log("Guess Again");
+    
+    else if (choice=2) 
+            console.log("Outlook Not So Good");
+    
+    else (choice=3) 
+            console.log("Without a Doubt");
+    
     console.log(choice);
 }
 
