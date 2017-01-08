@@ -1,0 +1,53 @@
+
+
+.row-one{
+          width: 150px;
+          height: 150px;
+          background-color: red;
+          margin-right: 20px;
+          margin-bottom: 20px;
+          display: inline-block;
+}
+
+.row-two{
+          width: 150px;
+          height: 150px;
+          background-color: red;
+          margin-right: 20px;
+          margin-bottom: 20px;
+          float: left;
+          position: relative;
+}
+
+.row-threea {
+          width: 150px;
+          height: 150px;
+          background-color: red;
+          position: absolute;
+          top: 340px;
+          left: 8px;
+         
+}
+
+.row-threeb {
+          width: 150px;
+          height: 150px;
+          background-color: red;
+          position: absolute;
+          top: 340px;
+          left: 178px;
+          
+}
+.row-threec {  
+          width: 150px;
+          height: 150px;
+          background-color: red;
+          position: absolute;
+          top: 340px;
+          left: 348px;
+          
+}
+         
+        
+
+            
